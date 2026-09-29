@@ -3739,7 +3739,7 @@ const _sfc_main$1 = /* @__PURE__ */ defineComponent({
         payload.append("email", form.email.trim());
         payload.append("message", form.message.trim());
         payload.append("website", form.website);
-        payload.append("source", "AiBlockSensor docs");
+        payload.append("source", "AiBlockSensors docs");
         payload.append("pageTitle", document.title);
         payload.append("pageUrl", window.location.href);
         payload.append("version", "latest");

@@ -1,6 +1,6 @@
-# AiBlockSensor Documentation
+# AiBlockSensors Documentation
 
-This repository contains the AiBlockSensor VitePress documentation site. The
+This repository contains the AiBlockSensors VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/AiBlockSensor/en/latest/`.
+The staged production files are generated in `projects/AiBlockSensors/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/AiBlockSensor-vite/projects/AiBlockSensor/en/latest/
+https://hiwonder-docs.github.io/AiBlockSensors-vite/projects/AiBlockSensors/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/AiBlockSensor/en/latest/
+https://wiki-test.hiwonder.com/projects/AiBlockSensors/en/latest/
 ```
